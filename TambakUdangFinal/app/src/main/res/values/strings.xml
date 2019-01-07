@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tambak Udang Final</string>
+    <string name="title_activity_grafik">GrafikActivity</string>
+    <string name="tab_grafik_ph">Grafik DO</string>
+    <string name="tab_grafik_suhu">Log DO</string>
+    <string name="tab_tabel_ph">Grafik Suhu</string>
+    <string name="tab_tabel_suhu">Log Suhu</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tabel">TabelActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_control">ControlActivity</string>
+    <string name="tab_text_1">Manual</string>
+    <string name="tab_text_2">Info Parameter</string>
+
+
+</resources>

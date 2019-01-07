@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "658312297872",
+    "firebase_url": "https://tinjauan-udang.firebaseio.com",
+    "project_id": "tinjauan-udang",
+    "storage_bucket": "tinjauan-udang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658312297872:android:f29281de77e7ea95",
+        "android_client_info": {
+          "package_name": "com.aldi.tambakudangfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658312297872-9qpiu104b5u3n8ud18ukils0etg4vhg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aldi.tambakudangfinal",
+            "certificate_hash": "d751c13f6df6565a40865d59031ab62da75b5d55"
+          }
+        },
+        {
+          "client_id": "658312297872-tm74rktib6gleel1296v5u3hong43oa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ZKLqI5ATlFiBE_1vwcFbX1nDamNSan4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658312297872-tm74rktib6gleel1296v5u3hong43oa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
